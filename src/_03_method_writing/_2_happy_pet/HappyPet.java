@@ -32,24 +32,12 @@ public class HappyPet {
 				comb();
 			}
 			
-			/*JOptionPane pane = new JOptionPane(arguments);
-		     pane.set.Xxxx(...); // Configure
-		     JDialog dialog = pane.createDialog(parentComponent, title);
-		     dialog.show();
-		     Object selectedValue = pane.getValue();
-		     if(selectedValue == null)
-		       return CLOSED_OPTION;
-		     //If there is not an array of option buttons:
-		     if(options == null) {
-		       if(selectedValue instance of Integer)
-		          return ((Integer)selectedValue).intValue();
-		       return CLOSED_OPTION;
-		     }
+			
+		   
 			// 6. Use user input to call the appropriate method created in step 5 below.
 			
 			// 7. If you determine the happiness level is large enough, tell the
-			   user that he loves his pet and use break; to exit for loop.
-			   */ 
+			 
 		}
 		JOptionPane.showMessageDialog(null, "You love your pet!");
 	}
